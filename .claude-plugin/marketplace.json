@@ -1,0 +1,19 @@
+{
+  "name": "zypsy-product-design-skills",
+  "owner": {
+    "name": "Zypsy",
+    "email": "hello@zypsy.com",
+    "url": "https://www.zypsy.com/"
+  },
+  "metadata": {
+    "description": "Zypsy Product Design Skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "zypsy-product-design-skills",
+      "description": "Collection of skills for product design",
+      "source": "./"
+    }
+  ]
+}
