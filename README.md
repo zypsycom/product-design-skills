@@ -15,12 +15,12 @@ Zypsy is a design studio based in SF, USA. Over a decade of shipping products fo
 ### Before applying the skill
 The output has inconsistent spacing, mismatched icon sizes, broken interactions, and no clear hierarchy, with the default AI aesthetic like gradients, busyness, and no restraint.
 
-![Dashboard UI before applying the skill](assets/dashboard-before.png)
+![Dashboard UI before applying the skill](assets/dashboard-before.webp)
 
 ### After applying the skill
 The outcome is immediately more consistent, with cleaner hierarchy, working micro-interactions, and a focused layout that surfaces key insights instead of noise.
 
-![Dashboard UI after applying the skill](assets/dashboard-after.png)
+![Dashboard UI after applying the skill](assets/dashboard-after.webp)
 
 > Both outputs were generated from the same prompt in a single pass. No post-generation edits were made to either result.
 
@@ -32,12 +32,12 @@ The outcome is immediately more consistent, with cleaner hierarchy, working micr
 ### Before applying the skill
 The output feels template-driven, polished on the surface but visually loud, with a generic finance app aesthetic and no clear sense of priority.
 
-![Finance app UI before applying the skill](assets/fintech-before.png)
+![Finance app UI before applying the skill](assets/fintech-before.webp)
 
 ### After applying the skill
 The result feels more intentional, cleaner hierarchy, and focused on the actual job to be done rather than looking cool. Pre-filled inputs and a subtle end animation came out of the box.
 
-![Finance app UI after applying the skill](assets/fintech-after.png)
+![Finance app UI after applying the skill](assets/fintech-after.webp)
 
 > Both outputs were generated from the same prompt in a single pass. No post-generation edits were made to either result.
 ---
