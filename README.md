@@ -6,7 +6,7 @@ A behavioral instruction file that teaches AI coding agents how to design like Z
 
 ## Background
 
-Zypsy is a design studio based in SF, USA. Over a decade of shipping products for funded startups and global brands, certain principles kept proving out across every engagement. This file is an attempt to encode those principles in a form an AI agent can actually use.
+[Zypsy](https://www.zypsy.com/) is a design studio based in SF, USA. Over a decade of shipping products for funded startups and global brands, certain principles kept proving out across every engagement. This file is an attempt to encode those principles in a form an AI agent can actually use.
 
 <br>
 
