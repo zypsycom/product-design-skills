@@ -9,37 +9,24 @@ A behavioral instruction file that teaches AI coding agents how to design like Z
 
 ## See It In Action
 
-### Before applying the skill
-The output has inconsistent spacing, mismatched icon sizes, broken interactions, and no clear hierarchy, with the default AI aesthetic like gradients, busyness, and no restraint.
-
-![Dashboard UI before applying the skill](assets/dashboard-before.webp)
-
-### After applying the skill
-The outcome is immediately more consistent, with cleaner hierarchy, working micro-interactions, and a focused layout that surfaces key insights instead of noise.
+### Example 1 (Web App)
+When the skill is applied, the output has clear visual hierarchy, consistent spacing, and intentional component choices.
 
 ![Dashboard UI after applying the skill](assets/dashboard-after.webp)
 
-> Both outputs were generated from the same prompt in a single pass. No post-generation edits were made to either result.
+> Prompt executed without any post-generation edits. What you see is exactly what the agent produced.
 
 ---
 
-<br>
 
-
-### Before applying the skill
-The output feels template-driven, polished on the surface but visually loud, with a generic finance app aesthetic and no clear sense of priority.
-
-![Finance app UI before applying the skill](assets/fintech-before.webp)
-
-### After applying the skill
-The result feels more intentional, cleaner hierarchy, and focused on the actual job to be done rather than looking cool. Pre-filled inputs and a subtle end animation came out of the box.
+### Example 2 (Mobile App)
+When the skill is applied, each screen stays focused, results are prioritized not listed, and the visual language earns trust.
 
 ![Finance app UI after applying the skill](assets/fintech-after.webp)
 
-> Both outputs were generated from the same prompt in a single pass. No post-generation edits were made to either result.
+> Prompt executed without any post-generation edits. What you see is exactly what the agent produced.
 ---
 
-<br>
 
 ## Installation
 
@@ -71,6 +58,7 @@ npx skills add zypsycom/product-design-skills
 
 > Skills are extracted individually, so you'll need to upgrade them manually.
 
+<br>
 
 ## Who it's for
 
